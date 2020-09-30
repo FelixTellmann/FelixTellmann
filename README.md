@@ -1,48 +1,46 @@
 # Hi, I'm Felix Tellmann 👋
 
 <style>
- .button {
-     position: relative;
-     min-width: 40px;
-     height: 40px;
-     display: -webkit-inline-box;
-     display: -webkit-inline-flex;
-     display: -ms-inline-flexbox;
-     display: inline-flex;
-     -webkit-align-items: center;
-     -webkit-box-align: center;
-     -ms-flex-align: center;
-     align-items: center;
-     -webkit-box-pack: center;
-     -webkit-justify-content: center;
-     -ms-flex-pack: center;
-     justify-content: center;
-     padding: 0 16px;
-     border: 0;
-     border-radius: 4px;
-     outline: none;
-     background-color: unset;
-     cursor: pointer;
-     -webkit-user-select: none;
-     -moz-user-select: none;
-     -ms-user-select: none;
-     user-select: none;
-     color: inherit;
-     font-family: inherit;
-     line-height: 1.2;
-     white-space: nowrap;
-     -webkit-text-decoration: none;
-     text-decoration: none;
-     -webkit-transition: background-color 0.25s;
-     transition: background-color 0.25s;
-     -webkit-appearance: none;
-     -moz-appearance: none;
-     appearance: none;
-     margin-left: 16px;
- }
+
 </style>
 <p style="text-align: center">
-    <a class="button" href="https://twitter.com/FelixTellmann" target="_blank" referrerpolicy="strict-origin-when-cross-origin">
+    <a style="position: relative;
+                   min-width: 40px;
+                   height: 40px;
+                   display: -webkit-inline-box;
+                   display: -webkit-inline-flex;
+                   display: -ms-inline-flexbox;
+                   display: inline-flex;
+                   -webkit-align-items: center;
+                   -webkit-box-align: center;
+                   -ms-flex-align: center;
+                   align-items: center;
+                   -webkit-box-pack: center;
+                   -webkit-justify-content: center;
+                   -ms-flex-pack: center;
+                   justify-content: center;
+                   padding: 0 16px;
+                   border: 0;
+                   border-radius: 4px;
+                   outline: none;
+                   background-color: unset;
+                   cursor: pointer;
+                   -webkit-user-select: none;
+                   -moz-user-select: none;
+                   -ms-user-select: none;
+                   user-select: none;
+                   color: inherit;
+                   font-family: inherit;
+                   line-height: 1.2;
+                   white-space: nowrap;
+                   -webkit-text-decoration: none;
+                   text-decoration: none;
+                   -webkit-transition: background-color 0.25s;
+                   transition: background-color 0.25s;
+                   -webkit-appearance: none;
+                   -moz-appearance: none;
+                   appearance: none;
+                   margin-left: 16px;" href="https://twitter.com/FelixTellmann" target="_blank" referrerpolicy="strict-origin-when-cross-origin">
         <img alt="" src="https://github.com/FelixTellmann/FelixTellmann/blob/master/images/twitter.svg" />
     </a>&nbsp;&nbsp;
 </p>
