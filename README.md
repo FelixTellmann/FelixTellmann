@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning videography & social media marketing
 - 👯 I’m looking to collaborate on anything start-up - tech
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about anything (here)[mailto:hello@felixtellmann.com].
-- 📫 How to reach (me)[www.felixtellmann.com].
+- 💬 Ask me about anything [here](mailto:hello@felixtellmann.com).
+- 📫 How to reach [me](www.felixtellmann.com).
 
 More to come
