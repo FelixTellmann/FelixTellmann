@@ -26,3 +26,5 @@
 - 📫 How to reach [me](www.felixtellmann.com).
 
 More to come
+
+<a href="https://app.daily.dev/flext"><img src="https://api.daily.dev/devcards/44966e0e1e904bdcad781c36c10efa9f.png?r=38b" width="400" alt="Felix Tellmann's Dev Card"/></a>
